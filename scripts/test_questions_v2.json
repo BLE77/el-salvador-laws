@@ -1,0 +1,61 @@
+[
+  {"category": "business", "question": "how do i get a liquor license for my bar in san salvador", "expected_decretos": ["671", "274"], "difficulty": "medium"},
+  {"category": "business", "question": "can i operate a food truck legally or do i need a fixed location permit", "expected_decretos": ["671", "274"], "difficulty": "medium"},
+  {"category": "business", "question": "whats the process to merge two companies in el salvador", "expected_decretos": ["671"], "difficulty": "hard"},
+  {"category": "business", "question": "do foreign companies need a local representative to do busines in ES?", "expected_decretos": ["671", "732"], "difficulty": "medium"},
+  {"category": "business", "question": "i want to franchise my US brand in el salvador, what legal framework applies", "expected_decretos": ["671", "732"], "difficulty": "hard"},
+  {"category": "business", "question": "what are the rules for issuing shares in a sociedad anonima de capital variable", "expected_decretos": ["671"], "difficulty": "hard"},
+  {"category": "business", "question": "my business partner is stealing money from our company what legal options do i have", "expected_decretos": ["671", "1030"], "difficulty": "hard"},
+  {"category": "business", "question": "do i need to register with the CNR to start selling imported goods", "expected_decretos": ["671", "230"], "difficulty": "medium"},
+
+  {"category": "criminal", "question": "what happens if someone breaks into my house and i hurt them defending myself", "expected_decretos": ["1030"], "difficulty": "medium"},
+  {"category": "criminal", "question": "is domestic violence a separate crime or just assault in el salvador", "expected_decretos": ["1030", "677"], "difficulty": "medium"},
+  {"category": "criminal", "question": "my ex is stalking me, is there a stalking law here??", "expected_decretos": ["1030"], "difficulty": "medium"},
+  {"category": "criminal", "question": "whats the sentence for homicidio in el salvador these days", "expected_decretos": ["1030"], "difficulty": "easy"},
+  {"category": "criminal", "question": "can a minor be tried as an adult for serious crimes", "expected_decretos": ["1030", "133"], "difficulty": "hard"},
+  {"category": "criminal", "question": "i got scammed online by someone in ES, can i file criminal charges or is it just civil", "expected_decretos": ["1030"], "difficulty": "medium"},
+  {"category": "criminal", "question": "que pasa si te agarran manejando borracho", "expected_decretos": ["1030"], "difficulty": "easy"},
+  {"category": "criminal", "question": "is extortion a federal crime here and whats the penalty, my business is getting extorted", "expected_decretos": ["1030"], "difficulty": "hard"},
+
+  {"category": "daily_life", "question": "can my landlord enter my apartment whenever he wants without permission", "expected_decretos": ["644", "776"], "difficulty": "medium"},
+  {"category": "daily_life", "question": "the water company shut off my water without warning, is that legal", "expected_decretos": ["776"], "difficulty": "medium"},
+  {"category": "daily_life", "question": "i want to complain about a product i bought online from a salvadoran store, who do i contact", "expected_decretos": ["776"], "difficulty": "easy"},
+  {"category": "daily_life", "question": "my neighbor's construction is damaging my wall, what can i do legaly", "expected_decretos": ["644", "274"], "difficulty": "medium"},
+  {"category": "daily_life", "question": "is it legal to record someone without their consent in el salvador", "expected_decretos": ["1030"], "difficulty": "medium"},
+  {"category": "daily_life", "question": "how do i change my name legally in el salvador, like the whole process", "expected_decretos": ["677"], "difficulty": "medium"},
+
+  {"category": "property", "question": "how does adverse possession work in el salvador, like if someones been on land for 10 years", "expected_decretos": ["644"], "difficulty": "hard"},
+  {"category": "property", "question": "can the government take my property for a highway project, and how much do they pay", "expected_decretos": ["644"], "difficulty": "hard"},
+  {"category": "property", "question": "i inherited property but theres no will, how does intestate succession work", "expected_decretos": ["644"], "difficulty": "hard"},
+  {"category": "property", "question": "is there a limit on how much rent a landlord can charge in el salvador", "expected_decretos": ["644"], "difficulty": "medium"},
+  {"category": "property", "question": "whats the transfer tax when buying property, like the total costs", "expected_decretos": ["644", "134"], "difficulty": "medium"},
+  {"category": "property", "question": "can i buy beachfront property or is there some restriction near the coast", "expected_decretos": ["644", "274"], "difficulty": "hard"},
+
+  {"category": "government", "question": "how does the freedom of information law work, can i request any government document", "expected_decretos": ["534"], "difficulty": "medium"},
+  {"category": "government", "question": "what is the corte de cuentas and how do i report government waste", "expected_decretos": ["274"], "difficulty": "medium"},
+  {"category": "government", "question": "can the asamblea legislativa override a presidential veto", "expected_decretos": [], "difficulty": "medium"},
+  {"category": "government", "question": "whats the process to recall a mayor or local official in el salvador", "expected_decretos": ["274"], "difficulty": "hard"},
+
+  {"category": "health", "question": "can a hospital refuse to treat me if i dont have insurance or money", "expected_decretos": ["955"], "difficulty": "easy"},
+  {"category": "health", "question": "what are the rules for pharmacies selling antibiotics, do i need a prescription", "expected_decretos": ["955", "153"], "difficulty": "medium"},
+  {"category": "health", "question": "i think my doctor messed up my surgery, how does medical malpractice work here", "expected_decretos": ["955", "1030"], "difficulty": "hard"},
+  {"category": "health", "question": "are there laws protecting mental health patients rights in ES", "expected_decretos": ["955"], "difficulty": "medium"},
+  {"category": "health", "question": "what covid regulations are still active in el salvador for businesses", "expected_decretos": ["955", "274"], "difficulty": "medium"},
+
+  {"category": "environment", "question": "my neighbor's factory is dumping chemicals in the river, who do i report this to", "expected_decretos": ["233"], "difficulty": "medium"},
+  {"category": "environment", "question": "do i need an environmental impact study to build a hotel near the beach", "expected_decretos": ["233", "274"], "difficulty": "hard"},
+  {"category": "environment", "question": "what are the penalties for illegal mining in el salvador", "expected_decretos": ["233"], "difficulty": "hard"},
+
+  {"category": "education", "question": "can a private school kick out my kid for not paying tuition mid-year", "expected_decretos": ["917"], "difficulty": "medium"},
+  {"category": "education", "question": "what are the requirements to homeschool my children in el salvador", "expected_decretos": ["917"], "difficulty": "medium"},
+  {"category": "education", "question": "do teachers have the right to strike or is it prohibited", "expected_decretos": ["917", "15"], "difficulty": "hard"},
+
+  {"category": "technology", "question": "is there a data privacy law in el salvador, like GDPR or something", "expected_decretos": [], "difficulty": "medium"},
+  {"category": "technology", "question": "someone hacked my social media and is impersonating me, is that a crime here", "expected_decretos": ["1030"], "difficulty": "medium"},
+  {"category": "technology", "question": "are digital signatures legally valid for contracts in el salvador", "expected_decretos": ["671"], "difficulty": "medium"},
+  {"category": "technology", "question": "i run an ecommerce store, do i need to register differently than a physical store", "expected_decretos": ["671", "230", "776"], "difficulty": "hard"},
+
+  {"category": "miscellaneous", "question": "im a gringo who bought land, built a hostel, hired locals and now the municipality is saying i need like 5 different permits i never heard of. what laws cover all this", "expected_decretos": ["671", "274", "15", "644"], "difficulty": "hard"},
+  {"category": "miscellaneous", "question": "my salvadoran wife and i are getting divorced, we have property, kids, and a business together. where do i even start legally", "expected_decretos": ["677", "133", "644", "671"], "difficulty": "hard"},
+  {"category": "miscellaneous", "question": "i want to start a nonprofit / ONG in el salvador to help street kids, what laws do i need to follow for that plus hiring staff plus getting donations", "expected_decretos": ["671", "15", "230"], "difficulty": "hard"}
+]

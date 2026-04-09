@@ -1,0 +1,33 @@
+{
+  "name": "el-salvador-laws",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Markdown-first research hub for an AI-searchable El Salvador law corpus.",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "crawl": "node scripts/crawl.mjs",
+    "crawl:asamblea-years": "node scripts/crawl.mjs asamblea-year-archive",
+    "crawl:asamblea-search": "node scripts/crawl.mjs asamblea-search",
+    "crawl:asamblea-annuals": "node scripts/crawl.mjs asamblea-annuals",
+    "crawl:diario": "node scripts/crawl.mjs diario-archive",
+    "crawl:jurisprudencia": "node scripts/crawl.mjs jurisprudencia",
+    "crawl:biblioteca": "node scripts/crawl.mjs asamblea-library",
+    "crawl:all": "node scripts/crawl.mjs --all",
+    "inventory:merge": "node scripts/merge-inventory.mjs",
+    "inventory:stats": "node scripts/inventory-stats.mjs",
+    "download": "node scripts/download.mjs",
+    "download:recent": "node scripts/download.mjs --source diario-archive --year 2020-2026",
+    "download:dry": "node scripts/download.mjs --dry-run",
+    "extract": "python scripts/extract.py",
+    "extract:recent": "python scripts/extract.py --year 2020-2026",
+    "translate": "python scripts/translate-and-chunk.py",
+    "translate:nolang": "python scripts/translate-and-chunk.py --skip-translate",
+    "build:db": "python scripts/build-search-db.py",
+    "serve": "python scripts/serve_fastapi.py",
+    "serve:fastapi": "python scripts/serve_fastapi.py"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
