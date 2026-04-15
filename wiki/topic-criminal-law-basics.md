@@ -67,9 +67,9 @@ Deceiving another person to obtain money, property, or an unlawful economic adva
 | Simple fraud (*estafa*) | 2-5 years in prison |
 | Aggravated fraud -- large amounts, targeting vulnerable persons, or exploiting a position of trust | 3-7 years in prison |
 
-### Money Laundering (Lavado de Dinero y Activos)
+### Money Laundering (Lavado de Dinero y Activos) -- Decreto 1030/1997 and Special Law
 
-Governed by the Ley Contra el Lavado de Dinero y de Activos. Money laundering means concealing, disguising, or integrating assets derived from criminal activity (drug trafficking, corruption, fraud, extortion, etc.) into the legitimate financial system.
+Money laundering in El Salvador is criminalized under both the Penal Code (Decreto 1030/1997) and the special Ley Contra el Lavado de Dinero y de Activos (Anti-Money Laundering Law). Under Decreto 1030 (1997), money laundering means concealing, disguising, or integrating assets derived from criminal activity (drug trafficking, corruption, fraud, extortion, etc.) into the legitimate financial system. The special anti-money laundering law adds specific reporting obligations for financial institutions.
 
 | Type | Penalty |
 |---|---|
@@ -357,14 +357,15 @@ There is no single comprehensive "knife law" in El Salvador. The rules are scatt
 
 ---
 
-## Drinking Age and Alcohol Rules
+## Drinking Age and Alcohol Rules (Decreto 1030/1997 and Decreto 955/1988)
 
-- The **legal drinking age** in El Salvador is **18 years old**
-- It is illegal to sell or serve alcohol to persons under 18
-- Selling alcohol to minors can result in administrative sanctions and fines for the establishment
+- The **legal drinking age** in El Salvador is **18 years old**, established under the Health Code (Decreto 955/1988) and reinforced by the Penal Code (Decreto 1030/1997)
+- Under Decreto 1030 (1997), selling or serving alcohol to a minor (under 18) constitutes a crime related to the corruption of minors (*corrupcion de menores*) and may result in criminal liability for the establishment and responsible individuals
+- Selling alcohol to minors can result in administrative sanctions and fines for the establishment under the Health Code (Decreto 955/1988) and the Municipal Code (Decreto 274/1986)
+- The Penal Code (Decreto 1030) also criminalizes facilitating alcohol consumption by minors in contexts that put their health or wellbeing at risk
 - Public intoxication can result in administrative detention
 - The **legal blood alcohol limit for driving** is **0.05 g/dL**
-- Bars and liquor stores are subject to licensing and operating hour restrictions set by municipal ordinances
+- Bars and liquor stores are subject to licensing and operating hour restrictions set by municipal ordinances under Decreto 274 (1986)
 
 ---
 
@@ -422,7 +423,7 @@ Possession of less than 2 grams carries 1-3 years in prison. Two grams or more c
 Yes. Salvadoran law recognizes legitimate self-defense (*legitima defensa*, Art. 27, D-1030/1997). You must show that: (1) the aggression was unlawful, (2) the force you used was reasonably proportional to the threat, and (3) you did not provoke the attack. If all three requirements are met, you are not criminally responsible. Using excessive force (more than necessary) is still a crime, but with a reduced penalty.
 
 ### 6. What is the legal drinking age?
-The legal drinking age in El Salvador is 18. Selling or serving alcohol to anyone under 18 is illegal and can result in sanctions for the establishment.
+The legal drinking age in El Salvador is 18. Under Decreto 1030 (1997) (Penal Code) and Decreto 955 (1988) (Health Code), selling or serving alcohol to anyone under 18 is illegal. The Penal Code (Decreto 1030) establishes criminal liability for facilitating alcohol consumption by minors under provisions relating to corruption of minors (*corrupcion de menores*). Establishments that violate this face fines and potential criminal prosecution.
 
 ### 7. What is the penalty for DUI?
 Driving under the influence of alcohol (above 0.05 g/dL blood alcohol) or drugs is punishable by 1-3 years in prison and suspension of your driving license. If you cause injury or death while DUI, the penalties are significantly higher -- you face the penalties for the injuries or homicide caused, with intoxication as an aggravating factor.
@@ -431,7 +432,7 @@ Driving under the influence of alcohol (above 0.05 g/dL blood alcohol) or drugs 
 There is no blanket ban on carrying knives. Carrying a knife for a legitimate purpose (work, cooking, agriculture) is generally legal. However, carrying a large knife or bladed weapon in an urban area without a clear legitimate purpose can lead to trouble, especially during the State of Exception when police have broad discretion. Using a knife in the commission of a crime is an aggravating factor.
 
 ### 9. What is money laundering and what is the penalty?
-Money laundering (*lavado de dinero*) means concealing or disguising the origin of money or assets derived from criminal activity. The penalty is 5-15 years in prison. Banks, notaries, accountants, real estate agents, and other professionals have legal obligations to report suspicious transactions. Failing to report can itself result in criminal and administrative penalties.
+Money laundering (*lavado de dinero*) means concealing or disguising the origin of money or assets derived from criminal activity. Under Decreto 1030 (1997) (Penal Code) and the Ley Contra el Lavado de Dinero y de Activos, the penalty is 5-15 years in prison. Aggravated laundering (by public officials, financial institution employees, or involving large amounts) carries increased penalties. Banks, notaries, accountants, real estate agents, and other professionals have legal obligations to report suspicious transactions (Decreto 1030 and special anti-money laundering law). Failing to report can itself result in criminal and administrative penalties.
 
 ### 10. How long can the police hold me without charges?
 Under normal circumstances, the Fiscalia must file formal charges within 72 hours of detention (Art. 268, D-733/2008). Under the State of Exception, this deadline is extended to 15 days. Pretrial detention (while awaiting trial) is limited to 12 months for less serious crimes and 24 months for serious crimes, though these limits can be extended in complex proceedings (Art. 8, D-733/2008).

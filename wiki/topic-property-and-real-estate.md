@@ -1,7 +1,7 @@
 ---
 topic: property-and-real-estate
 title: Property and Real Estate in El Salvador
-aliases: [buy property, buy land, buy house, foreigner buy land, property title, landlord, tenant, eviction, rent, construction permit, building permit, squatter, real estate, property registry, registro de la propiedad, titulo de propiedad, comprar casa, comprar terreno, extranjero comprar, arrendamiento, desalojo, permiso de construccion, bienes inmuebles, posesion, usucapion]
+aliases: [buy property, buy land, buy house, foreigner buy land, property title, landlord, tenant, eviction, rent, landlord eviction notice, 1 week notice eviction, renter rights, construction permit, building permit, squatter, real estate, property registry, registro de la propiedad, titulo de propiedad, comprar casa, comprar terreno, extranjero comprar, arrendamiento, desalojo, permiso de construccion, bienes inmuebles, posesion, usucapion, Decreto 644, land use planning, habitability, zoning rental]
 tags: [property, real estate, land, foreigners, title, registry, zoning, construction, rental, eviction, adverse possession, property tax, due diligence]
 ---
 # Property and Real Estate in El Salvador
@@ -122,7 +122,9 @@ Unauthorized construction is a serious infraction under Art. 76 of D-644/2011, p
 
 ### Legal Framework
 
-Rental relationships for real property are governed primarily by the Civil Code (Titulo XXVI, "Del arrendamiento") and, for urban rentals, by the Ley de Inquilinato (Tenancy Law). Consumer protection provisions under Decreto 776/2005 may also apply to certain service aspects of rental agreements.
+Rental relationships for real property are governed primarily by the Civil Code (Titulo XXVI, "Del arrendamiento"), the Ley de Inquilinato (Tenancy Law), and the Land Use Planning Law (Decreto 644/2011). Consumer protection provisions under Decreto 776/2005 may also apply to certain service aspects of rental agreements.
+
+**Decreto 644 (2011)** applies to all residential and commercial rental properties by requiring that all inhabited structures comply with applicable zoning, habitability, and urban development standards set by municipal territorial plans. Landlords must ensure rented properties meet the minimum habitability requirements established under D-644/2011. Rental of properties that do not meet these standards (substandard structures in non-urbanizable zones, uninspected buildings, etc.) can expose the landlord to sanctions.
 
 ### Key Tenant Rights
 
@@ -240,7 +242,7 @@ The main tax is the 3% transfer tax on the sale price or appraised value (whiche
 
 ### 4. Can my landlord evict me without a court order?
 
-No. Eviction in El Salvador requires a judicial proceeding. The landlord must file a lawsuit (juicio de desahucio) and obtain a court order. Self-help eviction -- such as changing locks, cutting water or electricity, or removing your belongings -- is illegal. If your landlord attempts this, you can file a complaint with the police and pursue civil remedies.
+No. Eviction in El Salvador requires a judicial proceeding under the Civil Code and the Ley de Inquilinato. The landlord must file a lawsuit (juicio de desahucio) and obtain a court order. Self-help eviction -- such as changing locks, cutting water or electricity, or removing your belongings -- is illegal. The minimum notice period for eviction must comply with both the lease agreement terms and applicable legal minimums; one week's notice is generally not sufficient under Salvadoran law. If your landlord attempts self-help eviction, you can file a complaint with the police and pursue civil remedies. Additionally, the Land Use Planning Law (Decreto 644/2011) sets minimum habitability standards for rented residential properties -- landlords must ensure the property meets these standards throughout the tenancy.
 
 ### 5. What happens if someone has been living on my land for years?
 

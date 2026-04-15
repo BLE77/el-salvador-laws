@@ -1,7 +1,7 @@
 ---
 topic: daily-life-and-consumer-rights
 title: Daily Life and Consumer Rights in El Salvador
-aliases: [consumer rights, refund, defective product, warranty, drinking age, driver license, gun permit, carry gun, weapon, telecom, internet provider, scam, lemon law, consumer protection, derechos del consumidor, devolucion, garantia, edad para beber, licencia de conducir, armas, permiso de portacion, cuchillo, telecomunicaciones, estafa, proteccion al consumidor, traffic ticket, multa de transito, SIGET, Defensoria del Consumidor]
+aliases: [consumer rights, refund, defective product, warranty, drinking age, driver license, foreign driver license, US license, gun permit, carry gun, weapon, telecom, internet provider, scam, lemon law, car defect, defective car, vehicle warranty, consumer protection, derechos del consumidor, devolucion, garantia, edad para beber, licencia de conducir, extranjero licencia, armas, permiso de portacion, cuchillo, telecomunicaciones, estafa, proteccion al consumidor, traffic ticket, multa de transito, SIGET, Defensoria del Consumidor, Decreto 286, Decreto 671, Decreto 776, Decreto 1030, migracion licencia conducir]
 tags: [consumer, daily life, drinking age, driving, guns, weapons, telecom, internet, scam, traffic, warranties, refunds]
 ---
 # Daily Life and Consumer Rights in El Salvador
@@ -38,6 +38,29 @@ The consumer can choose among these remedies. The provider cannot force you to a
 **Warranties.** Providers must honor any warranty (garantia) offered on a product, whether written or implied. The warranty period and conditions must be clearly communicated at the time of sale. If the product fails within the warranty period, the provider must remedy the defect at no additional cost.
 
 **Installment purchases.** Sellers offering installment plans (venta a plazos) must clearly disclose the cash price, total financing cost, interest rate, payment schedule, and all fees before the consumer commits (Art. 14).
+
+### Defective Vehicles and "Lemon Law" (Decreto 776/2005 and Decreto 671/1970)
+
+El Salvador does not have a law called a "lemon law" by name, but two laws protect you if you buy a defective car or vehicle:
+
+**Consumer Protection Law (Decreto 776/2005):**
+- Art. 38 of D-776/2005 makes providers strictly liable for defects in products sold, including vehicles
+- You are entitled to a replacement, repair, or refund for a defective vehicle
+- File a complaint with the Defensoria del Consumidor if the seller refuses to remedy the defect
+
+**Commercial Code (Decreto 671/1970):**
+- The Commercial Code (Decreto 671/1970) governs commercial warranties in vehicle sales
+- Under Decreto 671 (1970), commercial sellers must deliver goods that conform to the agreed specifications and are fit for their intended purpose
+- If a vehicle has a hidden defect (vicio oculto) that was not disclosed at sale, the buyer has the right to rescind the contract (*accion redhibitoria*) or demand a price reduction (*accion quanti minoris*) under the Commercial Code (Decreto 671)
+- Warranty terms must be honored; if a dealer promises a warranty on a used car, that warranty is binding under Decreto 671 (Commercial Code)
+
+**Practical Steps:**
+1. Document all defects in writing and keep records of repair attempts
+2. Notify the seller in writing of the defect and demand remedy under D-776 and D-671
+3. If the seller refuses, file a complaint with the Defensoria del Consumidor (D-776/2005)
+4. For larger amounts, consider a civil lawsuit under the Commercial Code (Decreto 671/1970)
+
+---
 
 ### Price Gouging and Essential Goods
 
@@ -79,10 +102,11 @@ Driver's licenses in El Salvador are issued by the Vice Ministerio de Transporte
 
 **License categories** include light vehicles (Class A), motorcycles (Class B), commercial vehicles, and heavy vehicles, each with specific requirements.
 
-### Foreign Driver's Licenses
+### Foreign Driver's Licenses (Decreto 286/2019 -- Migration Law)
 
-- **Tourists and short-term visitors.** A valid foreign driver's license is generally accepted for driving in El Salvador for a limited period (typically up to 90 days, aligning with the standard tourist visa). An International Driving Permit (IDP) is recommended as a supplement but not always strictly required.
-- **Residents.** If you become a resident of El Salvador, you must obtain a Salvadoran driver's license. The process may allow you to convert your foreign license without taking the full practical test, depending on bilateral agreements and VMT policies at the time.
+- **Tourists and short-term visitors.** Under the Migration Law (Decreto 286/2019), tourists admitted to El Salvador may stay up to 90 days. During this tourist stay authorized by Decreto 286 (2019), a valid foreign driver's license is generally accepted for driving in El Salvador. An International Driving Permit (IDP) is recommended as a supplement but not always strictly required.
+- **Residents.** If you obtain residency under Decreto 286 (2019) (Migration Law), you must obtain a Salvadoran driver's license. The process may allow you to convert your foreign license without taking the full practical test, depending on bilateral agreements and VMT policies at the time.
+- **US license specifically.** US citizens visiting on tourist status under Decreto 286 can drive with their US license for the duration of their tourist visa (up to 90 days). Once you establish legal residency (via Decreto 286), you must get a Salvadoran license from the VMT.
 - **No driving without a license.** Operating a motor vehicle without a valid license is a traffic infraction punishable by fines and potential vehicle impoundment.
 
 ---
@@ -226,8 +250,11 @@ Getting scammed (estafa) in El Salvador can give rise to both civil and criminal
 ## Related Laws
 
 - **Decreto 776 (2005)** -- Ley de Proteccion al Consumidor (consumer rights, defective products, warranties, advertising, e-commerce, Defensoria del Consumidor)
+- **Decreto 671 (1970)** -- Codigo de Comercio (Commercial Code: commercial warranties, hidden defects in vehicle/product sales, lemon law equivalent)
+- **Decreto 286 (2019)** -- Ley Especial de Migracion y Extranjeria (Migration Law: tourist status, residency, foreign driver's license validity period)
 - **Decreto 142 (1997)** -- Ley de Telecomunicaciones (telecom regulation, SIGET, spectrum, service quality, tariffs)
-- **Decreto 1030 (1997)** -- Codigo Penal (fraud/estafa, illegal weapons, drunk driving causing injury, crimes against persons)
+- **Decreto 644 (2011)** -- Ley de Ordenamiento y Desarrollo Territorial (land use planning, habitability standards for rented properties, landlord obligations)
+- **Decreto 1030 (1997)** -- Codigo Penal (fraud/estafa, illegal weapons, drunk driving causing injury, crimes against persons, drinking age enforcement for minors)
 - **Decreto 955 (1988)** -- Codigo de Salud (drinking age, alcohol sale restrictions, food and medicine safety)
 - **Ley de Transporte Terrestre, Transito y Seguridad Vial** -- Traffic rules, driver's licenses, traffic violations, DUI
 - **Ley de Control y Regulacion de Armas de Fuego, Municiones, Explosivos y Articulos Similares** -- Firearm permits, prohibited weapons, carrying restrictions
@@ -248,7 +275,7 @@ Yes. Under Art. 38 of D-776/2005, providers are strictly liable for defective pr
 
 ### 3. Can I drive with my foreign license in El Salvador?
 
-Yes, for a limited period (generally up to 90 days while on a tourist visa). An International Driving Permit is recommended as a supplement. If you become a resident, you must obtain a Salvadoran driver's license from the VMT.
+Yes, for a limited period under the Migration Law (Decreto 286/2019). Tourists admitted under Decreto 286 can stay up to 90 days and may drive with a valid foreign license during that period. An International Driving Permit (IDP) is recommended as a supplement. If you obtain residency under Decreto 286 (2019), you must get a Salvadoran driver's license from the VMT (Vice Ministerio de Transporte).
 
 ### 4. What happens if I get caught driving drunk?
 
@@ -273,6 +300,10 @@ File a criminal complaint (denuncia) at the Fiscalia General de la Republica or 
 ### 9. Can a business force me to buy something I do not want to get what I actually need?
 
 No. Tying the sale of one product to the purchase of another (unless they are naturally complementary) is a prohibited practice under Art. 18 of D-776/2005. This applies to telecom providers, retailers, and any other business. If this happens to you, report it to the Defensoria del Consumidor.
+
+### 11. Is there a "lemon law" for defective cars in El Salvador?
+
+El Salvador has no law called a "lemon law" by name. However, two laws protect buyers of defective vehicles: (1) the Consumer Protection Law (Decreto 776/2005) -- Art. 38 makes the seller strictly liable for product defects, entitling you to replacement, repair, or refund; and (2) the Commercial Code (Decreto 671/1970) -- which provides remedies for hidden defects (*vicios ocultos*) in commercial sales, including the right to rescind the contract or demand a price reduction. File a complaint with the Defensoria del Consumidor under D-776/2005, or pursue civil remedies under Decreto 671 (1970) if the amounts are significant.
 
 ### 10. Are online purchases protected by consumer law?
 
